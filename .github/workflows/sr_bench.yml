@@ -73,7 +73,7 @@ jobs:
                 
                 wget https://huggingface.co/datasets/janoPig/pmlb/resolve/main/master.zip
                 unzip master.zip
-                mv pmlb-master pmlb
+                mv pmlb_master pmlb
 
                 # clone srbench
                 mkdir srbench
